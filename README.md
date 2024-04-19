@@ -1,5 +1,10 @@
 # Youtube-Mp3-Dowloader
 
+## compiled verisons:
+```
+dist/main - ubuntu compiled verison
+```
+
 ## requirements:
 ```
 PyQt5
